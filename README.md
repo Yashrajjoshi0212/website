@@ -1,2 +1,4 @@
  website html css javascript  
- is comeing soon
+ is comeing soon 
+ <DOCTYPE>html
+ 
